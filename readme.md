@@ -7,6 +7,6 @@ Hi, I'm jasir! I have a technical background and hold a Certificate in Data Anal
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
 ## TABLE OF CONTENTS
----
+
 * Study Projects
   * [ Cyclistic : Bike Share Case Study ](https://github.com/Jasir47/Portfolio/tree/8564ba2ebb2973d6583d495f748b1ac7709459bb/Case%20Study%201%20How%20does%20a%20bike-share%20navigate%20speedy%20success)
