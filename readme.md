@@ -9,4 +9,4 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of Contents
 
 * Study Projects
-  * [ Cyclistic : Bike Share Case Study ](https://github.com/Jasir47/Portfolio/tree/8564ba2ebb2973d6583d495f748b1ac7709459bb/Case%20Study%201%20How%20does%20a%20bike-share%20navigate%20speedy%20success)
+  * [ Cyclistic : Bike Share Case Study ](https://github.com/Jasir47/Portfolio/tree/ad3d839546ffb9a65b06b73d97e6dd7844daf9be/Case%20Study%201%20How%20does%20a%20bike-share%20navigate%20speedy%20success)
