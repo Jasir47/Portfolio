@@ -10,5 +10,4 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 * Study Projects
   * [ Cyclistic : Bike Share Case Study ](https://github.com/Jasir47/Portfolio/tree/8564ba2ebb2973d6583d495f748b1ac7709459bb/Case%20Study%201%20How%20does%20a%20bike-share%20navigate%20speedy%20success)
-  * [ TATA - Data Visualization : Empowering Business with Effective Insights ]
-(https://github.com/Jasir47/Portfolio/tree/498f9ee652a08fbd6fe8e8dcfb5afc6f3ae8c23f/TATA-%20Data%20Visualization_Empowering%20Business%20with%20Effective%20Insights)
+  * [ TATA - Data Visualization : Empowering Business with Effective Insights(https://github.com/Jasir47/Portfolio/tree/498f9ee652a08fbd6fe8e8dcfb5afc6f3ae8c23f/TATA-%20Data%20Visualization_Empowering%20Business%20with%20Effective%20Insights)
